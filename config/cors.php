@@ -21,7 +21,7 @@ return [
 
     'allowed_origins' => [
         'http://localhost:5174',          // Local Vite dev server
-        'https://nehbsportfolio.vercel.app/',
+        'https://nehbsportfolio.vercel.app',
     ],
 
     'allowed_origins_patterns' => [],
